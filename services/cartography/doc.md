@@ -1,8 +1,5 @@
-&nbsp;
-
 <h3 style="text-align: center;">service definition: <i>viwi.service.cartography</i></h3>
 <p style="text-align: center;">j3ss5t (GitHub)</p>
-<p>&nbsp;</p>
 
 A service for controlling maps including the manipulation and management of layers, markers, cameras and custom elements.
 
@@ -21,7 +18,7 @@ A service for controlling maps including the manipulation and management of laye
   * [/cartography/maps/](#cartography.maps)
 
 # <a name="General"></a>General information
-version: 0.0.1
+**Version:** 0.0.1-pre-alpha+review
 
 ## <a name="Author"></a>Author
 **GitHub:** j3ss5t &lt;j0n45@mailbox.org&gt;<br />

@@ -1,8 +1,5 @@
-&nbsp;
-
 <h3 style="text-align: center;">service definition: <i>viwi.service.routeguidance</i></h3>
 <p style="text-align: center;">j3ss5t (GitHub)</p>
-<p>&nbsp;</p>
 
 The service acts as a source for positioning data and is meant to be used for managing route guidance.
 
@@ -17,7 +14,7 @@ The service acts as a source for positioning data and is meant to be used for ma
   * [/routeguidance/positionings/](#routeguidance.positionings)
 
 # <a name="General"></a>General information
-version: 0.0.1
+**Version:** 0.0.1-pre-alpha+review
 
 ## <a name="Author"></a>Author
 **GitHub:** j3ss5t &lt;j0n45@mailbox.org&gt;<br />
