@@ -8,7 +8,7 @@ A service for managing localities. This includes searching for addresses and poi
 * [General information](#General)
   * [Author](#Author)
   * [Contributors](#Contributors)
-* [Changelog](#Changelog)
+
 * [Resources](#Resources)
   * [/locality/locations/](#locality.locations)
   * [/locality/poiCategories/](#locality.poiCategories)

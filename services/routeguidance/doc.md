@@ -8,7 +8,7 @@ The service acts as a source for positioning data and is meant to be used for ma
 * [General information](#General)
   * [Author](#Author)
   * [Contributors](#Contributors)
-* [Changelog](#Changelog)
+
 * [Resources](#Resources)
   * [/routeguidance/guides/](#routeguidance.guides)
   * [/routeguidance/positionings/](#routeguidance.positionings)

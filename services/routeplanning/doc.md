@@ -8,7 +8,7 @@ A service for planning and managing routes.
 * [General information](#General)
   * [Author](#Author)
   * [Contributors](#Contributors)
-* [Changelog](#Changelog)
+
 * [Resources](#Resources)
   * [/routeplanning/routePolicies/](#routeplanning.routePolicies)
   * [/routeplanning/routes/](#routeplanning.routes)

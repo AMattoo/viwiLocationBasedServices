@@ -8,7 +8,7 @@ A service for controlling maps including the manipulation and management of laye
 * [General information](#General)
   * [Author](#Author)
   * [Contributors](#Contributors)
-* [Changelog](#Changelog)
+
 * [Resources](#Resources)
   * [/cartography/geometries/](#cartography.geometries)
   * [/cartography/mapCameras/](#cartography.mapCameras)
