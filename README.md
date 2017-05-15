@@ -1,5 +1,4 @@
 # Location Based Services based on ViWi Protocol
-# viwiLocationBasedServices
 This is a proposal for location based services based on Volkswagen Infotainment Web Interface protocol.
 
 I’m currently doing my bachelor’s degree in business informatics. I plan to do some kind of interface specification for by thesis based on the REST architecture pattern. These specified services should fit into an automotive environment. After some research regarding cars, infotainment systems and REST I found the submission of (i.a.) @wzr1337 that is public on www.w3.org (https://www.w3.org/Submission/viwi-protocol/). I really like this proposal because of its simplicity and beauty. I like the idea of the event driven async websocket approach combined with the classic REST concept.
