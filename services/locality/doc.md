@@ -1,4 +1,4 @@
-<h3 style="text-align: center;">service definition: <i>viwi.service.routeplanning</i></h3>
+<h3 style="text-align: center;">service definition: <i>viwi.service.locality</i></h3>
 <p style="text-align: center;">j3ss5t (GitHub)</p>
 
 A service for managing localities. This includes searching for addresses and poi&#x27;s and getting further information of those places.
