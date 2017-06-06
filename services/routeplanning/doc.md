@@ -17,6 +17,7 @@ A service for planning and managing routes.
 **Version:** 0.0.1-pre-alpha+review
 
 ## <a name="Author"></a>Author
+**Name:** Jonas Schmidt
 **GitHub:** j3ss5t &lt;j0n45@mailbox.org&gt;<br />
 **Twitter:** @j3s_s5t
 
