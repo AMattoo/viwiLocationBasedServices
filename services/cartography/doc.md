@@ -21,6 +21,7 @@ A service for controlling maps including the manipulation and management of laye
 **Version:** 0.0.1-pre-alpha+review
 
 ## <a name="Author"></a>Author
+**Name:** Jonas Schmidt<br />
 **GitHub:** j3ss5t &lt;j0n45@mailbox.org&gt;<br />
 **Twitter:** @j3s_s5t
 
