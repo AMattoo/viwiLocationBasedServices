@@ -14,7 +14,7 @@ A service for planning and managing routes.
   * [/routeplanning/routes/](#routeplanning.routes)
 
 # <a name="General"></a>General information
-**Version:** 0.0.1-pre-alpha+review
+**Version:** 0.0.7-pre-alpha+review
 
 ## <a name="Author"></a>Author
 **Name:** Jonas Schmidt<br />
