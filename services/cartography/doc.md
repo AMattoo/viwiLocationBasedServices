@@ -7,7 +7,6 @@ A service for controlling maps including the manipulation and management of laye
 
 * [General information](#General)
   * [Author](#Author)
-  * [Contributors](#Contributors)
 
 * [Resources](#Resources)
   * [/cartography/geometries/](#cartography.geometries)
@@ -18,7 +17,7 @@ A service for controlling maps including the manipulation and management of laye
   * [/cartography/maps/](#cartography.maps)
 
 # <a name="General"></a>General information
-**Version:** 0.0.7-pre-alpha+review
+**Version:** 0.0.8-alpha+review
 
 ## <a name="Author"></a>Author
 **Name:** Jonas Schmidt<br />

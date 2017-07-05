@@ -7,14 +7,13 @@ The service acts as a source for positioning data and is meant to be used for ma
 
 * [General information](#General)
   * [Author](#Author)
-  * [Contributors](#Contributors)
 
 * [Resources](#Resources)
   * [/routeguidance/guides/](#routeguidance.guides)
   * [/routeguidance/positionings/](#routeguidance.positionings)
 
 # <a name="General"></a>General information
-**Version:** 0.0.7-pre-alpha+review
+**Version:** 0.0.8-alpha+review
 
 ## <a name="Author"></a>Author
 **Name:** Jonas Schmidt<br />

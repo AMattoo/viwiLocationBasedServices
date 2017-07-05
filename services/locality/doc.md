@@ -7,7 +7,6 @@ A service for managing localities. This includes searching for addresses and poi
 
 * [General information](#General)
   * [Author](#Author)
-  * [Contributors](#Contributors)
 
 * [Resources](#Resources)
   * [/locality/locations/](#locality.locations)
@@ -16,7 +15,7 @@ A service for managing localities. This includes searching for addresses and poi
   * [/locality/searches/](#locality.searches)
 
 # <a name="General"></a>General information
-**Version:** 0.0.7-pre-alpha+review
+**Version:** 0.0.8-alpha+review
 
 ## <a name="Author"></a>Author
 **Name:** Jonas Schmidt<br />
