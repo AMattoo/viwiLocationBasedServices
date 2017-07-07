@@ -319,7 +319,7 @@ A resource for search results.
 | id                           | The unique identifier for an element.                      | string        | uuid          |               | - |
 | name                         | The specific name of an element                            | string        |               |               | - |
 | uri                          | The unique uniform resource (respectively element) identifier. | string        | uri           |               | - |
-| parent                       | The original search of the search result.                  | object        |               |               | [/places/searches/searchObject](#searchObject) |
+| parent                       | The original search of the search result.                  | object        |               |               | [/locality/searches/searchObject](#searchObject) |
 | reference                    | The actual location that was found in the search.          | object        |               |               | [/locality/locations/locationObject](#locationObject) |
 
 ### Resource level access (/locality/searchResults/)
